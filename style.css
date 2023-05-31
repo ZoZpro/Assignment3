@@ -1,0 +1,348 @@
+
+.clear-fix{
+    clear: both;
+}
+
+.navbar{
+    background-color: transparent;
+}
+.nav-logo{
+    width: 20%;
+    float: left;
+}
+.nav-logo img{
+    width:100%;
+}
+.nav-menu{
+    width: 60%;
+    float: right;
+}
+
+.nav-menu ul{
+    list-style: none;
+    
+}
+.nav-menu ul li{
+width: 15%;
+float: left;
+padding: 10px 0px;
+font-size: 18px ;
+color: #fff;
+}
+.home{   
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+    margin-bottom: 5%;
+}
+
+
+.home-content{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 0px;
+    font-family:"Alegreya Sans" ;
+    color: #fff;
+    margin-top: 100px;
+    font-size: 24px;
+}
+.home-content h1{
+    font-family:"Alegreya" ;
+    font-size: 76px;
+    font-weight: 400;
+}
+.home-content button{
+    padding: 15px 28px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    
+}
+.btn{
+    background-color: #8e7754;
+    border: 2px solid transparent;
+    margin: 0px 12px;
+}
+.btn-transparent{
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+.about{
+    width: 100%;
+    margin-bottom: 5% ;
+}
+.about-info{
+    margin: auto;
+    width: 80%;
+}
+.about-photo{
+
+    width: 40%;
+    float: left;
+    margin-right: 40px;
+}
+.about-content{
+    line-height: 1.86em;
+    text-align: left;
+    width: 40%;
+    float: left;
+}
+
+.about-photo img{
+
+    width: 100%;
+    vertical-align: middle;
+}
+
+.about-content h2{
+    
+    font-weight: 400;
+    font-family: "Alegreya";
+    font-size: 32px;
+}
+.about-content p{
+    font-family: "Alegreya Sans";
+    font-size: 17px;
+}
+.para-aboutContent{
+    color: #686868;
+}
+
+.paragraph-icons{
+width: 100%;
+color: #686868;
+}
+
+.paragraph-icons img{
+    width: 10%;
+    border-radius: 50%;
+    vertical-align: middle;  
+    border: 1px solid rgba(0,0,0,.15);
+}
+.location{
+    width: 100%;
+    margin-bottom: 5% ;
+    background-color: whitesmoke;
+}
+
+.location-info{
+    margin: auto;
+    width:80%;
+}
+.location-content{
+    margin: 15% 0;
+    width: 40%;
+    float: left;
+    padding-right: 25px;
+}
+.location-content h2{
+    font-family: "Alegreya";
+    font-size: 32px;
+    font-weight: 400;
+}
+.location-content p {
+    line-height: 1.86em;
+    font-family: "Alegreya Sans";
+    font-size: 17px;
+    color: #686868;
+}
+.location-photo{
+    margin: 10% 5%;
+    width: 40%;
+    float: right;
+}
+.location-photo img{
+    width: 100%;
+
+}
+
+.baking{
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.baking-info{
+   
+    width:80%;
+    margin: auto;
+}
+.baking-content{
+    text-align: center;
+    padding: 10px 0px 60px;
+    
+}
+.baking-content h3{
+    font-weight: 400;
+    font-family: "Alegreya";
+    font-size: 30px;
+}
+.baking-content p{
+    font-size: 17px;
+    color: #888;
+    font-family: "Alegreya Sans";
+}
+.baking-container{
+    width: 80%;
+    margin: auto;
+}
+.baking-container h4{
+    font-family: "Alegreya";
+    font-size: 22px;
+    font-weight: 400 ;
+}
+.baking-container p{
+    font-family:"Alegreya Sans" ;
+    line-height: 1.86em;
+    font-size: 17px;
+    color: #686868
+}
+.baking-image img{
+    width: 90%;
+    
+}
+.baking-image{
+
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+.bread-img{
+    padding: 0px 20px 0px 15px;
+}
+.bagel-img{
+    padding: 0px 20px;
+}
+.cookies-img{
+    padding: 0px 15px 0px 0px;
+}
+.contact{
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 140px 0px;
+}
+.contact-info{
+    width: 90%;
+    margin: auto;
+}
+.contact-content{
+    float: left;
+    width: 40%;
+}
+.contact-content h2{
+    font-family: "Alegreya";
+    font-size: 32px;
+    font-weight: 400;
+    
+}
+.contact-content p{
+    font-family: "Alegreya Sans";
+    font-size: 17px;
+    font-weight: 400;
+    color: #686868;
+}
+
+.contact-icon img{
+    margin-right: 10px;
+    width: 6%;
+    border-radius: 50%;
+    vertical-align: middle;  
+    background-color: #8e7754;
+}
+.contact-GPS{
+    float: left;
+}
+.contact-GPS img{
+    width: 80%;
+    margin-left: 25%;
+}
+.about-us
+{
+    width: 100%;
+    background-color: #403d38;
+}
+.about-information
+{
+    width: 80%;
+    margin: auto;
+    color: #969696;
+    font-size: 16px;
+    font-weight: 400;
+}
+.about-information h4{
+    color: #fff;
+    font-family: "Alegreya";
+    font-size: 18px;
+    font-weight: 400;
+}
+.about-information p{
+    font-size: 16px;
+    font-family:"Alegreya Sans" ;
+}
+.about-information img{
+    width: 8%;
+    vertical-align: middle;
+}
+.about-container{
+    width: 23%;
+    float: left;  
+    padding-left: 15px;
+}
+
+.why-special
+{
+    width: 23%;
+    float: left;
+    margin-left: 20px;
+    
+}
+
+
+.Opening-Hours
+{
+    width: 23%;
+    float: left;
+   margin-left: 10px;
+
+}
+.contact-details
+{
+    width: 23%;
+    float: left;
+   margin-left: 5px;
+}
+.bakery-footer{
+    width: 100%;
+     background-color: #353330;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 17px;
+    color: #686868;
+    margin: auto;
+    padding-top:50px;
+}
+.bakery-line{
+    
+    width: 50%;
+    color: #777;
+    padding-bottom: 30px;
+    margin: auto;
+    text-align: center;
+}
+.bakery-line p{
+    font-family:  "Alegreya Sans";
+    font-size: 15px;
+}
+.bakery-icon{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    
+}
+.bakery-icon img{
+    width: 7%;
+   margin: auto;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
